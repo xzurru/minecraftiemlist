@@ -1,2 +1,2 @@
-# minecraftiemlist
-minecraftiemlist
+# minecraftitemlist
+minecraftitemlist
